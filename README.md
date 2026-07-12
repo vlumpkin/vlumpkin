@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-#### I just learned this was a thing, so I apologize if it's not particularly polished!
+### I just learned this was a thing, so I apologize if it's not particularly polished!
 
 
-### About Me:
-#### - 🔭 I’m currently working on... a student-scoped personal assistant, this includes systems that allow us to develop, test, measure, and validate hyper-efficient orchestration systems. 
-#### - 🌱 I’m currently learning... about OAuth and how different services use (and make how to workaround) their systems guidelines
-#### - ⚡ Fun fact: ... my grandfather was a carpenter and nowadays a do woodworking
+## About Me:
+### - 🔭 I’m currently working on... a student-scoped personal assistant, this includes systems that allow us to develop, test, measure, and validate hyper-efficient orchestration systems. 
+### - 🌱 I’m currently learning... about OAuth and how different services use (and make how to workaround) their systems guidelines
+### - ⚡ Fun fact: ... my grandfather was a carpenter and nowadays a do woodworking
 
 
 <!--
